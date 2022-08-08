@@ -3,3 +3,15 @@ h1 {
     color: red;
     font: arial;
 }
+h2 {
+    text-align: center;
+}
+.UpperClass {
+    text-align: center;
+    border: none;
+    color: red;
+    padding: 15px 64px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
